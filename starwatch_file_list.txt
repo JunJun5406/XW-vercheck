@@ -5,8 +5,8 @@ generate_hash.ps1|074a149edb3ce7ae499c7e1a97db5008
 starwatch_file_list.txt|b659dee39a80f7a2276a475203f87d48
 ver.txt|a87ff679a2f3e71d9181a67b7542122c
 winhttp.dll|4026799bdfd39a6cff71445516010830
-星望小帮手.exe|19725b9dd103ca93a95517373cba9fc1
-更新日志.txt|f6dd6e8f0ba5fb0ab99022cadc83a9d5
+星望小帮手.exe|45f6a263c27547b3388c647c803be8b7
+更新日志.txt|1b80ceef66673c20c96e90ed153d2822
 联系方式.txt|7b595235f22806e217ceb22e37b4ed6f
 BepInEx/LogOutput.log|0ea639625c6375594133cb0c27788d06
 BepInEx/cache/chainloader_typeloader.dat|f46b7c19085424e82ea3254cedaed919
