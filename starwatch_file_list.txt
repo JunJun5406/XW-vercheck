@@ -3,6 +3,7 @@ debug_log.txt.tmp|05b7f8291367e620866c5548f527dfdd
 doorstop_config.ini|8e12d7b7de950c633b96141e5451bf18
 generate_hash.ps1|074a149edb3ce7ae499c7e1a97db5008
 starwatch_file_list.txt|b659dee39a80f7a2276a475203f87d48
+Update.ps1|d437832ebdd2c9ae1ab76b39deca7580
 ver.txt|a87ff679a2f3e71d9181a67b7542122c
 winhttp.dll|4026799bdfd39a6cff71445516010830
 星望小帮手.exe|45f6a263c27547b3388c647c803be8b7
